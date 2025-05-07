@@ -1,0 +1,147 @@
+Timestamp: 2025-05-07 14:53:36.457187
+Company: Tesla, Year: 2022, Query: revenue
+Response: The Total Revenue for Tesla in 2022 is $ 81462
+------------------------------------------------------
+Timestamp: 2025-05-07 14:54:08.235354
+Company: Tesla, Year: 2022, Query: assets growth
+Response: The Assets Growth (%) for Tesla in 2022 is 0.0%
+------------------------------------------------------
+Timestamp: 2025-05-07 14:54:44.176102
+Company: Tesla, Year: 2022, Query: average cash flow
+Response: Data not available or invalid input. Please check the company name, year, or try another query.
+Error: 'Cash Flow from Operations Growth(%)'
+------------------------------------------------------
+Timestamp: 2025-05-07 15:19:14.312567
+Company: Apple, Year: 2022, Query: total liabilities
+Response: The Total Liabilities for Apple in 2022 is $ 302083
+------------------------------------------------------
+Timestamp: 2025-05-07 15:19:33.265433
+Company: Apple, Year: 2022, Query: total liabilities
+Response: The Total Liabilities for Apple in 2022 is $ 302083
+------------------------------------------------------
+Timestamp: 2025-05-07 15:19:52.815776
+Company: Apple, Year: 2022, Query: net income growth
+Response: The Net Income Growth (%) for Apple in 2022 is 2.89%
+------------------------------------------------------
+Timestamp: 2025-05-07 15:20:18.965354
+Company: Apple, Year: 2022, Query: cash flow from operations growth
+Response: Data not available or invalid input. Please check the company name, year, or try another query.
+Error: 'Cash Flow from Operations Growth(%)'
+------------------------------------------------------
+Timestamp: 2025-05-07 15:20:49.005786
+Company: Apple, Year: 2022, Query: revenue growth
+Response: The Revenue Growth (%) for Apple in 2022 is 2.88%
+------------------------------------------------------
+Timestamp: 2025-05-07 15:21:58.776463
+Company: Microsoft, Year: 2022, Query: total assets
+Response: The Total Assets for Microsoft in 2022 is $ 364840
+------------------------------------------------------
+Timestamp: 2025-05-07 15:22:05.581732
+Company: Microsoft, Year: 2022, Query: net income
+Response: The Net Income for Microsoft in 2022 is $ 72738
+------------------------------------------------------
+Timestamp: 2025-05-07 15:22:31.500601
+Company: Microsoft, Year: 2022, Query: cash flow from operating
+Response: Data not available or invalid input. Please check the company name, year, or try another query.
+Error: 'Cash Flow from Operating Activities'
+------------------------------------------------------
+Timestamp: 2025-05-07 15:31:05.230243
+Company: Microsoft, Year: 2022, Query: quit
+Response: Sorry, I couldn't understand your question. Please ask about revenue, net income, assets, liabilities, or growth rates.
+------------------------------------------------------
+Timestamp: 2025-05-07 15:32:57.542403
+Company: Apple, Year: 2022, Query: revenue growth
+Response: The Revenue Growth (%) for Apple in 2022 is 2.88%
+------------------------------------------------------
+Timestamp: 2025-05-07 15:33:10.394601
+Company: Apple, Year: 2022, Query: average revenue
+Response: The Total Revenue for Apple in 2022 is $ 394328
+------------------------------------------------------
+Timestamp: 2025-05-07 15:33:52.310361
+Company: Apple, Year: 2022, Query: average income growth of apple?
+Response: Sorry, I couldn't understand your question. Please ask about revenue, net income, assets, liabilities, or growth rates.
+------------------------------------------------------
+Timestamp: 2025-05-07 15:37:35.160597
+Company: Apple, Year: 2022, Query: quit
+Response: Sorry, I couldn't understand your question. Please ask about revenue, net income, assets, liabilities, or growth rates.
+------------------------------------------------------
+Timestamp: 2025-05-07 15:38:20.690846
+Company: Apple, Year: 2022, Query: "average income growth of apple?"
+Response: Sorry, I couldn't understand your question. Please ask about revenue, net income, assets, liabilities, or growth rates.
+------------------------------------------------------
+Timestamp: 2025-05-07 15:45:35.096271
+Company: Apple, Year: 2022, Query: what is the year by year average liabilities growth rate(%)?
+Response: The Liabilities Growth (%) for Apple in 2022 is 0.0%
+------------------------------------------------------
+Timestamp: 2025-05-07 15:46:25.570924
+Company: Apple, Year: 2022, Query: what is the cash flow from operations growth(%) ?
+Response: Data not available or invalid input. Please check the company name, year, or try another query.
+Error: 'Cash Flow from Operations Growth(%)'
+------------------------------------------------------
+Timestamp: 2025-05-07 15:46:54.635740
+Company: Apple, Year: 2022, Query: what is the liabilities growth(%) ?
+Response: The Liabilities Growth (%) for Apple in 2022 is 0.0%
+------------------------------------------------------
+Timestamp: 2025-05-07 15:47:12.200551
+Company: Apple, Year: 2022, Query: what is the net income growth(%) ?
+Response: The Net Income Growth (%) for Apple in 2022 is 2.89%
+------------------------------------------------------
+Timestamp: 2025-05-07 15:47:33.548301
+Company: Apple, Year: 2022, Query: what is cash flow from operating activities?
+Response: Data not available or invalid input. Please check the company name, year, or try another query.
+Error: 'Cash Flow from Operating Activities'
+------------------------------------------------------
+Timestamp: 2025-05-07 15:52:28.009579
+Company: Apple, Year: 2022, Query: what is the net income?
+Response: The Net Income for Apple in 2022 is $ 99803
+------------------------------------------------------
+Timestamp: 2025-05-07 15:55:18.213841
+Company: Apple, Year: 2022, Query: what is the total revenue?
+Response: The Total Revenue for Apple in 2022 is $ 394328
+------------------------------------------------------
+Timestamp: 2025-05-07 15:58:34.188764
+Company: Microsoft, Year: 2023, Query: totalt revenue
+Response: The Total Revenue for Microsoft in 2023 is $ 211915
+------------------------------------------------------
+Timestamp: 2025-05-07 15:58:57.306702
+Company: Microsoft, Year: 2023, Query: what is the net income?
+Response: The Net Income for Microsoft in 2023 is $ 72361
+------------------------------------------------------
+Timestamp: 2025-05-07 15:59:16.262902
+Company: Microsoft, Year: 2023, Query: what is cash flow from operating activities?
+Response: Data not available or invalid input. Please check the company name, year, or try another query.
+Error: 'Cash Flow from Operating Activities'
+------------------------------------------------------
+Timestamp: 2025-05-07 15:59:33.397605
+Company: Microsoft, Year: 2023, Query: what is the revenue growth(%) ?
+Response: The Revenue Growth (%) for Microsoft in 2023 is -13.55%
+------------------------------------------------------
+Timestamp: 2025-05-07 15:59:47.694306
+Company: Microsoft, Year: 2023, Query: what is the assets growth(%) ?
+Response: The Assets Growth (%) for Microsoft in 2023 is 12.92%
+------------------------------------------------------
+Timestamp: 2025-05-07 16:00:07.368619
+Company: Microsoft, Year: 2023, Query: what is the year by year average revenue growth rate(%)?
+Response: The Revenue Growth (%) for Microsoft in 2023 is -13.55%
+------------------------------------------------------
+Timestamp: 2025-05-07 16:00:38.360294
+Company: Microsoft, Year: 2023, Query: what is the year by year average liabilities growth rate(%)?
+Response: The Liabilities Growth (%) for Microsoft in 2023 is 3.76%
+------------------------------------------------------
+Timestamp: 2025-05-07 16:01:12.923096
+Company: Microsoft, Year: 2023, Query: what is the year by year average cash flow from operations growth rate(%)?
+Response: Data not available or invalid input. Please check the company name, year, or try another query.
+Error: 'Cash Flow from Operations Growth(%)'
+------------------------------------------------------
+Timestamp: 2025-05-07 16:01:36.781125
+Company: Microsoft, Year: 2023, Query: what is the year by year average liabilities growth rate(%)?
+Response: The Liabilities Growth (%) for Microsoft in 2023 is 3.76%
+------------------------------------------------------
+Timestamp: 2025-05-07 16:01:51.916739
+Company: Microsoft, Year: 2023, Query: revenue
+Response: The Total Revenue for Microsoft in 2023 is $ 211915
+------------------------------------------------------
+Timestamp: 2025-05-07 16:02:00.750562
+Company: Microsoft, Year: 2023, Query: net incomee
+Response: The Net Income for Microsoft in 2023 is $ 72361
+------------------------------------------------------
