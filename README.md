@@ -1,26 +1,23 @@
-### Bio
-
-👋 Hi there! I'm Bavya Sree, a passionate data scientist and machine learning enthusiast. Here are some highlights of what I bring to the table:
-
-#### Education:
-
-- **M. Sc.** in Data Science from Bharathiar University, 2023-2025.
-
-#### Skills & Techniques:
-
-ML Algorithms: DecTrees, RF, SVM, KNN, NNs.
-
-Statistical Analysis: Hypothesis testing, Regression, Clustering.
-
-Data Preprocessing: Cleaning, Feature Eng, Normalization.
-
-Deep Learning: TensorFlow, PyTorch, NLP, Image Class.
-
-Data Viz: Matplotlib, Seaborn, Plotly for insights.
+📊 Financial Performance Chatbot
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bavyasreechinnasamy) 
+This project is a data-driven chatbot designed to assist users in querying the financial performance of major companies (Microsoft, Tesla, and Apple) across different fiscal years. The chatbot is powered by a structured dataset manually created from financial reports, including key metrics such as revenue, net income, total assets, liabilities, and cash flow.
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+🔁 Workflow Overview
+Data Collection & Preparation
+Financial data was manually gathered for three companies over a span of three years. Calculations were performed to derive growth rates for each financial metric.
+
+Data Processing
+The dataset was cleaned, missing values were filled, and summary statistics (mean, max, min) were computed per company to create a comprehensive financial report.
+
+CSV Export
+Both the detailed dataset and a summarized version were exported as CSV files for use in chatbot responses.
+
+Chatbot Development
+A custom chatbot script (CHATBOTT.py) was developed in Python. It reads the CSV files, understands natural language queries using keyword matching, and returns precise financial data based on user input.
+
+User Interaction
+Users input a company name, fiscal year, and a financial query (e.g., "What is the revenue growth in 2022?"). The chatbot processes the query and provides an accurate response, while logging all interactions.
+
+Testing & Validation
+The chatbot was tested through interactive queries to ensure that it correctly interprets and responds to a variety of financial questions.
