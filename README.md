@@ -1,23 +1,28 @@
-📊 Financial Performance Chatbot
-
+# **📊 Financial Performance Chatbot**
 
 This project is a data-driven chatbot designed to assist users in querying the financial performance of major companies (Microsoft, Tesla, and Apple) across different fiscal years. The chatbot is powered by a structured dataset manually created from financial reports, including key metrics such as revenue, net income, total assets, liabilities, and cash flow.
 
-🔁 Workflow Overview
-Data Collection & Preparation
+# 🔁 Workflow Overview
+- **Data Collection & Preparation:**
+
 Financial data was manually gathered for three companies over a span of three years. Calculations were performed to derive growth rates for each financial metric.
 
-Data Processing
+- **Data Processing:**
+
 The dataset was cleaned, missing values were filled, and summary statistics (mean, max, min) were computed per company to create a comprehensive financial report.
 
-CSV Export
+- **CSV Export:**
+
 Both the detailed dataset and a summarized version were exported as CSV files for use in chatbot responses.
 
-Chatbot Development
+- **Chatbot Development:**
+
 A custom chatbot script (CHATBOTT.py) was developed in Python. It reads the CSV files, understands natural language queries using keyword matching, and returns precise financial data based on user input.
 
-User Interaction
+- **User Interaction:**
+
 Users input a company name, fiscal year, and a financial query (e.g., "What is the revenue growth in 2022?"). The chatbot processes the query and provides an accurate response, while logging all interactions.
 
-Testing & Validation
+- **Testing & Validation:**
+
 The chatbot was tested through interactive queries to ensure that it correctly interprets and responds to a variety of financial questions.
